@@ -25,6 +25,8 @@
     ],
     "react/react-in-jsx-scope": "off",
     "react/jsx-one-expression-per-line": "off",
-    "linebreak-style": "off"
+    "linebreak-style": "off",
+    "jsx-a11y/anchor-is-valid": "off",
+    "import/no-unresolved": "off"
   }
 }
