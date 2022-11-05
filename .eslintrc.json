@@ -27,6 +27,8 @@
     "react/jsx-one-expression-per-line": "off",
     "linebreak-style": "off",
     "jsx-a11y/anchor-is-valid": "off",
-    "import/no-unresolved": "off"
+    "import/no-unresolved": "off",
+    "react/jsx-props-no-spreading": "off",
+    "import/extensions": "off"
   }
 }
